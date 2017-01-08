@@ -12,6 +12,6 @@ Final tidy data set is 180 observations of 81 variables.
 Each column represents each variable and each row represents each observation.
 
 Column information is as follows:
-Column 1: subject serial number from 1 to 30.
-Column 2: activity with WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
-Column 3 ~ 81: average value of each feature that includes mean() or std() in feature information as mean and standard deviation are the main interests.
+* Column 1: subject serial number from 1 to 30.
+* Column 2: activity with WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
+* Column 3 ~ 81: average value of each feature that includes mean() or std() in feature information as mean and standard deviation are the main interests.
