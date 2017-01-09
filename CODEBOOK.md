@@ -1,9 +1,9 @@
-DATA DICTIONARY – HUMAN ACTIVITY RECOGNITION
-1 Column 1: subject
-  person serial number from 1 to 30 
-2 Column 2: activity: 6 different types of activity 
-  levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-3 Column3 ~ Column 81: feature vector: variables containing mean() or std() 
+#DATA DICTIONARY – HUMAN ACTIVITY RECOGNITION
+##1. Column 1: subject
+  *person serial number from 1 to 30 
+##2. Column 2: activity: 6 different types of activity 
+  *levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+##3. Column3 ~ Column 81: feature vector: variables containing mean() or std() 
   *tBodyAcc-mean()-X
   *tBodyAcc-mean()-Y
   *tBodyAcc-mean()-Z
