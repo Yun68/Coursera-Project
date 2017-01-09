@@ -3,7 +3,7 @@
    - person serial number from 1 to 30<br />
 * Column 2: activity: 6 different types of activity <br />
    - levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING<br />
-* Column3 ~ Column 81: feature vector: average of the measurevariables containing mean() or std() <br />
+* Column3 ~ Column 81: feature vector: average of the measurement containing mean() or std() <br />
    - tBodyAcc-mean()-X <br />
    - tBodyAcc-mean()-Y<br />
    - tBodyAcc-mean()-Z<br />
